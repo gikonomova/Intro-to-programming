@@ -1,0 +1,16 @@
+// Intro-to-programming
+//Programming Basics September
+
+using System;
+
+class CurrentDateTime
+{
+    static void Main()
+    {
+        DateTime now = DateTime.Now;
+        Console.WriteLine("Current time is: " + now);
+
+        Console.ReadLine();
+
+    }
+}
