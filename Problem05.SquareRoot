@@ -1,0 +1,16 @@
+// Intro-to-programming
+//Programming Basics September
+
+using System;
+
+class SquareRoot
+{
+    public static void Main()
+    {
+        double num = 12345;
+        double a = Math.Sqrt(num);
+
+        Console.WriteLine(a);
+        Console.ReadLine();
+    }
+}
