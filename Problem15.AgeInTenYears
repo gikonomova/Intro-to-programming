@@ -1,0 +1,19 @@
+// Intro-to-programming
+// Programming Basics September
+
+using System;
+
+namespace _15.AgeInTenYears
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Enter current years: ");
+            double years = double.Parse(Console.ReadLine()) + 10;
+
+            Console.WriteLine("Age in 10 years will be: " + years);
+            Console.ReadLine();
+        }
+    }
+}
