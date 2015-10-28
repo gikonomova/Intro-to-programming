@@ -1,5 +1,4 @@
-// Intro-to-programming
-//Programming Basics September
+// Create a console application that prints the current date and time. Find in Internet how.
 
 using System;
 
