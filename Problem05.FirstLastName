@@ -1,0 +1,18 @@
+// Intro-to-programming
+// Programming Basics September
+
+using System;
+
+namespace FirstAndLastName
+{
+    class FirstLastName
+    {
+        static void Main()
+        {
+            Console.WriteLine("First name: Bob");
+            Console.WriteLine("Last name: Dylan");
+
+            Console.ReadLine();
+        }
+    }
+}
